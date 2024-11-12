@@ -7,7 +7,7 @@ Bus lines + stops:
 
 A (Towards PTN square) stops(PTN Square(7) gps(41.29829; 2.32792), Nullian street(6) gps(67.34658; 10.32232), Booleanburg(5) gps(70.29829; 12.52792), Bytes square(4) gps(72.37829; 12.55792), Nookea street(3) gps(82.37829; 16.55792), Times New Roman memorial(2) gps(85.37429; 20.48128), Data street(1) gps(90.57829; 25.54792).)
 
-B (Towards Noorleens) stops (Noorleens(4) gps(20.37829; 1.25792), Void vaey(3) gps(20.37829; 5.25792), New Booleans(2) gps(24.37829; 6.75992), Nohatten station(1) gps(27.37829; 8.25792).)
+B (Towards Noorleens) stops (Noorleens(4) gps(20.37829; 1.25792), Void valley(3) gps(20.37829; 5.25792), New Booleans(2) gps(24.37829; 6.75992), Nohatten station(1) gps(27.37829; 8.25792).)
 
 C (Towards Nulland airport) stops(Nulland airport(5) gps(290.37829; 100.25792), Megabyte square(4) gps(270.37829; 90.32592), Mittensoda square(3) gps(200.37629; 70.25792) , Nullean street(2) gps(150.37831; 30.25792), Sea of Nulland station(1) gps(100.30001; 00.20002).)
 
