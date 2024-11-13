@@ -14,25 +14,25 @@ C (Towards Nulland airport) stops(Nulland airport(5) gps(290.37829; 100.25792), 
 ----------------------------------------
 
 Passenger data:
-Alice Anderson (email: derosiersteas@outlook.com), (card ID: 1255), (Phone: +00 56 79 35), (address: Nullian street no. 12, (zip code: 0001) , (civic number 1304), (country: Nulland)
+Alice Anderson (email: derosiersteas@outlook.com), (card ID: 1255), (Phone: +00 56 79 35), (address: Nullian street no. 12, (city: Nullian), (zip code: 0001), (civic number 1304), (country: Nulland)
 
 
-Bob Poisson (email: bobblobfish@gmail.com), (card ID: 8008), (Phone: +00 36 20 59), (address: Sea of Nulland lane no. 19, (zip code: 0101) , (civic number 1004), (country: Nulland)
+Bob Poisson (email: bobblobfish@gmail.com), (card ID: 8008), (Phone: +00 36 20 59), (address: Sea of Nulland lane no. 19, (city: Seanull),(zip code: 0101), (civic number 1004), (country: Nulland)
 
 
-Connor Mauz (email: houseofmaus@gmail.com), (card ID: 1924), (Phone: +00 16 09 30), (address: Noorleens street no. 35, (zip code: 0202) , (civic number 1004), (country: Nulland)
+Connor Mauz (email: houseofmaus@gmail.com), (card ID: 1924), (Phone: +00 16 09 30), (address: Noorleens street no. 35, (city: Noorleens), (zip code: 0202), (civic number 1004), (country: Nulland)
 
 
-Gabriel Brook (email: fashionistariver@gmail.com), (card ID: 3484), (Phone: +00 56 79 02), (address: Nullian street no. 27, (zip code: 0001) , (civic number 1304), (country: Nulland)
+Gabriel Brook (email: fashionistariver@gmail.com), (card ID: 3484), (Phone: +00 56 79 02), (address: Nullian street no. 27, (city: Nullian), (zip code: 0001) , (civic number 1304), (country: Nulland)
 
 
-Ashley Briars (email: winterbloomenterprises@outlook.com), (card ID: 1755), (Phone: +00 86 49 25), (address: Nullian street no. 32, (zip code: 0001) , (civic 1304), (country: Nulland)
+Ashley Briars (email: winterbloomenterprises@outlook.com), (card ID: 1755), (Phone: +00 86 49 25), (address: Nullian street no. 32, (city: Nullian), (zip code: 0001), (civic 1304), (country: Nulland)
 
-Lance Patrickson (email: therealknights@gmail.com), (card ID: 1285), (Phone: +00 54 72 15), (address: Nullian street no. 12, (zip code: 0001) , (civic number 1304), (country: Nulland)
+Lance Patrickson (email: therealknights@gmail.com), (card ID: 1285), (Phone: +00 54 72 15), (address: Nullian street no. 12, (city: Nullian), (zip code: 0001) , (civic number 1304), (country: Nulland)
 
 
-Paddington Brown (email: happiestbear@outlook.com), (card ID: 1175), (Phone: +00 26 19 35), (address: Mittensoda street no. 5, (zip code: 0070) , (civic number 1380), (country: Nulland)
-
+Paddington Brown (email: happiestbear@outlook.com), (card ID: 1175), (Phone: +00 26 19 35), (address: Mittensoda street no. 5, (city: Mittensoda), (zip code: 0070) , (civic number 1380), (country: Nulland)
+  
 --------------------------------
 
 Bus rides:
@@ -48,13 +48,3 @@ Card ID: 1175, 03-29-2024 13:34, duration: 10 minutes, 03-29-2024 13:44, line B,
 Card ID: 3484, 03-29-2024 13:34, duration: 10 minutes, 03-29-2024 13:44, line B,  Nohatten station(1), New Booleans(2)
 
 Card ID: 1755, 03-15-2024 13:34, duration: 10 minutes, 03-15-2024 13:44, line C, Mittensoda square(3), Sea of Nulland station(1)
-
-
-
-
-
-
-
-
-
-
